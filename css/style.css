@@ -23,6 +23,10 @@
 }
 
 /* contoh icon (WAJIB ADA INI dari IcoMoon) */
-.icon-mc:before {
+.icon-icon-m:before {
     content: "\e900";
+}
+
+.icon-mc-full:before {
+    content: "\e901";
 }
