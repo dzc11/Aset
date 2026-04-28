@@ -24,9 +24,9 @@
 
 /* contoh icon (WAJIB ADA INI dari IcoMoon) */
 .icon-icon-m:before {
-    content: "\e900";
+    content: "\f000";
 }
 
 .icon-mc-full:before {
-    content: "\e901";
+    content: "\f001";
 }
